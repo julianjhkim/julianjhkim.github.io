@@ -19,3 +19,7 @@ This page is a collection of materials that have helped me. I highly recommend t
 ## fMRI
 * [NI-edu](https://lukas-snoek.com/NI-edu/)
 * [DartBrains](https://dartbrains.org/content/intro.html)
+
+
+## Open Science and Neuroimaging
+* [List by OHBM 2019](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md#containers)
