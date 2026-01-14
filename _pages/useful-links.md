@@ -21,5 +21,6 @@ This page is a collection of materials that have helped me. I highly recommend t
 * [DartBrains](https://dartbrains.org/content/intro.html)
 
 
-## Open Science and Neuroimaging
-* [List by OHBM 2019](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md#containers)
+## List of resources for fMRI
+* [OHBM 2019](https://github.com/ohbm/hackathon2019/blob/master/Tutorial_Resources.md#containers)
+* [Jonathan Peelle](http://jonathanpeelle.net/mri-resources-for-beginners)
