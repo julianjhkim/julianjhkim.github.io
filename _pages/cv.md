@@ -8,8 +8,11 @@ redirect_from:
   - /cv.html
 ---
 
-<object data="https://andyjhkim.github.io/files/CV_AndyJHKim.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://andyjhkim.github.io/files/CV_AndyJHKim.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://andyjhkim.github.io/files/CV_AndyJHKim.pdf">Download PDF</a>.</p>
+{% include base_path %}
+
+<object data="{{ base_path }}/files/cv.pdf" type="application/pdf" width="100%" height="800px">
+    <embed src="{{ base_path }}/files/cv.pdf" type="application/pdf">
     </embed>
 </object>
+
+<p><a href="{{ base_path }}/files/cv.pdf">Download as PDF</a></p>
