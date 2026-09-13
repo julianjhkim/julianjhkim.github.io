@@ -10,5 +10,7 @@ I am writing a series of open textbooks. This is my lifetime project. As long as
 
 ## Statistics
 
-[Read the book](https://julianjhkim.github.io/t-test-book/){:target="_blank"} ·
-[Source](https://github.com/julianjhkim/t-test-book){:target="_blank"}
+Starting with how to compare means. When are you allowed to say that two groups differ, and why does the usual answer work? Written for readers who know some math but are new to statistics.
+
+[Read the book](https://julianjhkim.github.io/statistics-book/){:target="_blank"} ·
+[Source](https://github.com/julianjhkim/statistics-book){:target="_blank"}
