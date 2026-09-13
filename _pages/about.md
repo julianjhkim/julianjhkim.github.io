@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Junghyun Kim, but I go by Andy. (Fun fact: when I was in kindergarten, I was asked to make an English name. Toy Story was the first and only movie I had seen at the time, so I picked "Andy" since I couldn’t name myself after the toys like Woody or Buzz Lightyear!)
+Hi! I'm Junghyun Kim. I know my name is hard for non-Koreans. Feel free to call me Julian. I like the Spanish pronunciation, with the J as an H, but the English J is fine too.
 
-I’m currently a PhD student at Purdue University in the Mathematical and Computational Psychology program. I’m advised by [Anne Sereno](https://engineering.purdue.edu/SerenoLab) (note: the lab website is outdated). Before that, I completed my master’s at Hanyang University in South Korea, where I was advised by [Sungshin Kim](http://commonlab.hanyang.ac.kr/). I earned my undergraduate degree from the University of Toronto and worked as a research intern with [Cendri Hutcherson](https://www.decisionneurolab.com/). Oh, and I graduated from a Chinese high school called [BiGuiYuan, or Guangdong Country Garden School](https://bgy.gd.cn/en//gzbsys.html?lang=en) - if you’re interested in the Chinese economy, you may have heard of the name.
+I am currently working under the supervision of [Sungshin Kim](https://commonlab.hanyang.ac.kr/) at Hanyang University. I used to have a paragraph here about my academic history, but please visit my [CV](/cv/) page instead. It became quite complicated. In short, I have studied in Korea, China, Canada, and the United States.
 
-My research interests lie at the intersection of cognitive neuropsychology, computer science, and statistics. I’m passionate about exploring interdisciplinary questions that bridge these fields. For more details, check out my [research](research.md) page.
+My research interests lie at the intersection of cognitive neuropsychology, computer science, and statistics. I'm passionate about exploring interdisciplinary questions that bridge these fields. For more details, check out my [research](/research/) page.
+
+I like teaching. As a method, I have a lifetime personal project: writing my own textbooks for everything I know, learn, and study. Check them out on the [Textbooks](/textbooks/) page!
