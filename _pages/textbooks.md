@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Textbooks"
-permalink: /text-books/
+permalink: /textbooks/
 author_profile: true
 ---
 
