@@ -19,6 +19,8 @@ This page is a collection of materials that have helped me. I highly recommend t
 ## fMRI
 * [NI-edu](https://lukas-snoek.com/NI-edu/)
 * [DartBrains](https://dartbrains.org/content/intro.html)
+* [Naturalistic-Data](https://naturalistic-data.org/content/intro.html)
+* [BrainIAK](https://brainiak.org/tutorials/)
 
 
 ## List of resources for fMRI
