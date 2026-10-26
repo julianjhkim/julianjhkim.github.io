@@ -14,3 +14,10 @@ Starting with how to compare means. When are you allowed to say that two groups 
 
 [Read the book](https://julianjhkim.github.io/statistics-book/){:target="_blank"} ·
 [Source](https://github.com/julianjhkim/statistics-book){:target="_blank"}
+
+## Read articles with me
+
+Papers can be dense. This book slows down and works through them together, unpacking each core idea and rebuilding it with a minimal replication.
+
+[Read the book](https://julianjhkim.github.io/read-articles-with-me/){:target="_blank"} ·
+[Source](https://github.com/julianjhkim/read-articles-with-me){:target="_blank"}
