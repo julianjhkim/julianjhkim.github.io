@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-I am writing a series of open textbooks. This is my lifetime project. As long as I keep learning, they will keep growing.
+I am writing a series of open textbooks. This is my lifetime project. As long as I keep learning, they will keep growing. 
+
+No one was teaching it in a simple, intuitive way, so I decided to do it myself.
 
 ## Statistics
 
